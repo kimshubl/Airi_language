@@ -3,7 +3,7 @@
 
 An esoteric programming language inspired by VTuber Chisaka Airi from Phase Connect.
 
-Airi Lang is a C++ transpiler language where every keyword, operator, and punctuation is derived from Chisaka Airi's iconic memes, catchphrases, and wolf-like personality. Functions start with Ai, values are returned with PON (her signature blunder), and you print to the console by invoking phase_connects_famous_azooma. Even the number system is cursed — write binary with Airi_ using Ai for 1 and ri for 0, or gamble your hex addresses with Gacha_.
+Airi Lang is a C++ transpiler language where every keyword, operator, and punctuation is derived from Chisaka Airi's iconic memes, catchphrases, and wolf-like personality. Functions start with Ai, values are returned with PON (her signature blunder), and you print to the console by invoking phase_connects_famous_auntie. Even the number system is cursed — write binary with Airi_ using Ai for 1 and ri for 0, or gamble your hex addresses with Gacha_.
 
 Why does this exist?
 Originally started as a hobby project to build a custom programming language for OS development. Then the thought hit: "What if I just made Airi's own language instead?" — and here we are. A fully functional transpiler pipeline (Lexer → Parser → Semantic Analyzer → Code Generator) that converts .airi scripts into standard C++ and executes them in a single command.
